@@ -1,0 +1,256 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.top-banner {
+    background-image: url('images/hungry-child.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+
+.banner-area {
+    padding: 100px;
+}
+
+.banner-area h1 {
+    padding-top: 60px;
+    font-size: 45px;
+}
+
+.banner-area p {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.button {
+    text-decoration: none;
+    color: #fff;
+    background-image: linear-gradient(rgb(252, 6, 6), tomato);
+    font-size: 20px;
+    padding: 15px 25px;
+    border-radius: 8px;
+}
+
+.donate-area {
+    text-align: center;
+}
+
+.donate-area h1 {
+    font-size: 45px;
+    padding-top: 150px;
+}
+
+.donate-area p {
+    padding-top: 40px;
+    color: rgb(75, 73, 73);
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.donate-count {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    padding: 100px;
+}
+
+.count {
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+    background-color: rgba(243, 242, 242, 0.521);
+    border-radius: 5px;
+}
+
+.tomato {
+    text-align: center;
+    margin: auto;
+    padding: 50px;
+    background-color: rgba(255, 176, 124, 0.363);
+    border-radius: 5px;
+    border: 2px solid red;
+}
+
+.count h2 {
+    font-weight: 700;
+}
+
+.order-amount {
+    padding: 50px 0px 50px 0px;
+}
+
+.order-amount input {
+    border: none;
+    border-bottom: 1px solid lightgrey;
+    padding: 10px 350px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.donate-plan {
+    padding-top: 120px;
+}
+
+.donate-plan h1 {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.donate-plan p {
+    text-align: center;
+    padding: 50px 0;
+    font-size: 22px;
+    font-weight: 700;
+    color: rgba(105, 97, 97, 0.932);
+}
+
+.plans {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+.plan {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 80px;
+}
+
+.plan img {
+    width: 45px;
+    margin-bottom: 10px;
+}
+
+.plan h2 {
+    font-size: 24px;
+}
+
+.plan p {
+    font-size: 18px;
+    text-align: left;
+}
+
+.sky-blue {
+    background-color: rgba(203, 226, 235, 0.219);
+}
+
+.pink {
+    background-color: rgba(255, 192, 203, 0.418);
+}
+
+.off-white {
+    background-color: rgba(238, 214, 109, 0.404);
+}
+
+
+.top-donors {
+    padding-top: 80px;
+    padding-bottom: 100px;
+    display: flex;
+}
+
+.area-footage {
+    width: 50%;
+    margin: 10px;
+}
+
+.top-donors img {
+    width: 80%;
+    margin-left: 20px;
+}
+
+.name {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.name h3 {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    background-color: rgba(146, 144, 144, 0.226);
+    margin: 10px;
+    margin-bottom: 5px;
+    padding: 20px 150px;
+}
+
+#btn {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 30px;
+    background-color: tomato;
+    border-radius: 6px;
+    margin-left: 150px;
+}
+
+.subscribe-area {
+    text-align: center;
+    margin: auto;
+    padding: 100px;
+}
+
+.subscribe-area h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.subscribe-area p {
+    font-size: 20px;
+    font-weight: 400;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.form {
+    width: 60%;
+    margin: auto;
+    background-color: #fce08759;
+    padding: 80px 70px;
+}
+
+
+.text {
+    padding: 10px 70px 10px 4px;
+    font-size: 20px;
+    border: none;
+    margin-right: -30px;
+}
+
+.submit {
+    padding: 10px 30px;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 500;
+    border: none;
+    background-color: rgb(231, 60, 60);
+    color: white;
+}
+
+
+footer {
+    text-align: center;
+    padding: 40px;
+    background-color: rgb(6, 6, 34);
+}
+
+footer h4 {
+    font-size: 18px;
+    font-weight: 700;
+    color: rgba(255, 0, 0, 0.822);
+}
+
+footer p {
+    font-size: 14px;
+    margin-top: 20px;
+    color: rgba(255, 255, 255, 0.274);
+}
